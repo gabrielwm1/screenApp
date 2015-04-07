@@ -1,0 +1,19 @@
+//
+//  Screen-Prefix.pch
+//  Screen
+//
+//  Created by Mason Wolters on 11/8/14.
+//  Copyright (c) 2014 Big Head Applications. All rights reserved.
+//
+
+#ifndef Screen_Screen_Prefix_pch
+#define Screen_Screen_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
+
+#ifdef __OBJC__
+    #import "Constants.h"
+#endif

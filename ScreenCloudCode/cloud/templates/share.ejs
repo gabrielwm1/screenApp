@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+
+        <title>Screen</title>
+
+        <meta name="author" content="Big Head Applications">
+        <meta name="robots" content="noindex, nofollow">
+
+        <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,maximum-scale=1.0">
+
+    </head>
+
+    <body style="margin-top: 0px;">
+
+        
+        <script type="text/javascript">
+
+                var iOS = (navigator.userAgent.match(/(iPad|iPhone|iPod)/g) ? true : false );
+
+                if (iOS) {
+                    setTimeout(function() {
+                      // window.location = "itms://itunes.apple.com/us/app/sailbot/id891801574?ls=1&mt=8";
+                      window.location = "http://screen.parseapp.com/movie/<%= id %>";
+                    }, 25);
+
+                    window.location = 'screen://movie?id=<%= id %>'
+                } else {
+                    window.location = "http://screen.parseapp.com/movie/<%= id %>";
+                }
+            
+        </script>
+    
+    </body>
+</html>

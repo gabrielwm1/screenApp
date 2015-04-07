@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Screen": {
+            "applicationId": "sh5TWSiKn9Dmljgv0gJ5MiqrvTUxzE7BHP3kluUH", 
+            "masterKey": "PCEid2mvELvR8l9KPG8GSEQYZ125rhZ6cHdcO30r"
+        }, 
+        "_default": {
+            "link": "Screen"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.1"
+    }
+}

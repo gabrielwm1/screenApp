@@ -1,0 +1,69 @@
+#left {
+	height: 100%;
+	padding: 0px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+#right {
+	height: 100%;
+	padding: 0px;
+}
+
+#moviesContainer {
+	width: 100%; 
+	height: 100%; 
+	padding: 15px;
+	background: #293137;
+}
+
+.movieContainer {
+	height: 100px; 
+	background: #293137;
+	padding: 5px;
+	display: relative;
+}
+
+.movieContainer .posterImage {
+	height: 90px;
+	width: 60px;
+	display: inline;
+}
+
+.movieContainer .demandBar {
+	height: 3px;
+	width: 70%;
+	position: absolute;
+	left: 85px;
+	top: 85%;
+/*	clip: rect(0px, 50%, 3px, 0px);
+*/}
+
+.movieContainer .label {
+	position: absolute;
+	top: 30%;
+	left: 75px;
+	color: #FFF;
+	font-size: 14pt;
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;	
+	font-weight: light;
+	word-wrap: break-word;
+}
+
+.movieContainer .subLabel {
+	position: absolute;
+	top: 60%;
+	left: 86px;
+	color: #FFF;
+	font-size: 10pt;
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;	
+	font-weight: light;
+	word-wrap: break-word;
+}
+
+.tip {
+	color: #FFF;
+	font-size: 11pt;
+	text-align: center;
+	padding: 20px;
+}

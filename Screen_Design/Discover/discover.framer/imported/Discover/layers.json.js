@@ -1,0 +1,1116 @@
+window.__imported__ = window.__imported__ || {};
+window.__imported__["Discover/layers.json.js"] = [
+  {
+    "maskFrame" : null,
+    "id" : "B04CEB0F-AB2E-4A02-BE42-3DF15487F3AF",
+    "visible" : true,
+    "children" : [
+      {
+        "maskFrame" : null,
+        "id" : "3548BA68-943F-42AC-B6B8-FBC000340577",
+        "visible" : false,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/Action_Sort-3548BA68-943F-42AC-B6B8-FBC000340577.png",
+          "frame" : {
+            "y" : -27,
+            "x" : -50,
+            "width" : 332,
+            "height" : 250
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : -27,
+          "x" : -50,
+          "width" : 332,
+          "height" : 250
+        },
+        "name" : "Action_Sort"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "5732B19E-73FD-43AB-95FA-F659DA6DB912",
+        "visible" : false,
+        "children" : [
+          {
+            "maskFrame" : null,
+            "id" : "72A91A6D-4972-4451-B9A0-EE7BD99B8AF5",
+            "visible" : true,
+            "children" : [
+              {
+                "maskFrame" : null,
+                "id" : "272C86FB-D6CF-4D63-960A-F2D10DA210D8",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/TrendingTag-272C86FB-D6CF-4D63-960A-F2D10DA210D8.png",
+                  "frame" : {
+                    "y" : 808,
+                    "x" : -275,
+                    "width" : 409,
+                    "height" : 240
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 808,
+                  "x" : -275,
+                  "width" : 409,
+                  "height" : 240
+                },
+                "name" : "TrendingTag"
+              },
+              {
+                "maskFrame" : null,
+                "id" : "1DFC0A3B-D741-4D09-AC8C-6AEAEFC9EEF9",
+                "visible" : true,
+                "children" : [
+                  {
+                    "maskFrame" : null,
+                    "id" : "3C8EFE4F-DC7A-4753-A58B-DCB5076DAF19",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/More_Friends-3C8EFE4F-DC7A-4753-A58B-DCB5076DAF19.png",
+                      "frame" : {
+                        "y" : 798,
+                        "x" : -395,
+                        "width" : 260,
+                        "height" : 260
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 798,
+                      "x" : -395,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "name" : "More_Friends"
+                  },
+                  {
+                    "maskFrame" : {
+                      "y" : 798,
+                      "x" : -445,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "id" : "F16B1C4A-2B86-4080-B23A-FB46989F6FE8",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/mom-F16B1C4A-2B86-4080-B23A-FB46989F6FE8.png",
+                      "frame" : {
+                        "y" : 798,
+                        "x" : -445,
+                        "width" : 260,
+                        "height" : 260
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 798,
+                      "x" : -445,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "name" : "mom"
+                  },
+                  {
+                    "maskFrame" : {
+                      "y" : 798,
+                      "x" : -495,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "id" : "BE68F4C9-654A-4F08-935D-71E8D92B27E7",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/theo-BE68F4C9-654A-4F08-935D-71E8D92B27E7.png",
+                      "frame" : {
+                        "y" : 798,
+                        "x" : -495,
+                        "width" : 260,
+                        "height" : 260
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 798,
+                      "x" : -495,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "name" : "theo"
+                  },
+                  {
+                    "maskFrame" : {
+                      "y" : 798,
+                      "x" : -545,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "id" : "F3F78CDA-9CB2-42C5-9EA9-0D859C9608C5",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/mason-F3F78CDA-9CB2-42C5-9EA9-0D859C9608C5.png",
+                      "frame" : {
+                        "y" : 798,
+                        "x" : -545,
+                        "width" : 260,
+                        "height" : 260
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 798,
+                      "x" : -545,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "name" : "mason"
+                  }
+                ],
+                "image" : {
+                  "path" : "images\/Friends-1DFC0A3B-D741-4D09-AC8C-6AEAEFC9EEF9.png",
+                  "frame" : {
+                    "y" : 798,
+                    "x" : -545,
+                    "width" : 410,
+                    "height" : 260
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 798,
+                  "x" : -545,
+                  "width" : 410,
+                  "height" : 260
+                },
+                "name" : "Friends"
+              },
+              {
+                "maskFrame" : {
+                  "y" : 788,
+                  "x" : -561,
+                  "width" : 711,
+                  "height" : 280
+                },
+                "id" : "16122B29-10BC-4409-AAE1-B75F35C1E37D",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/BlurOverlay-16122B29-10BC-4409-AAE1-B75F35C1E37D.png",
+                  "frame" : {
+                    "y" : 788,
+                    "x" : -561,
+                    "width" : 711,
+                    "height" : 280
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 788,
+                  "x" : -561,
+                  "width" : 711,
+                  "height" : 280
+                },
+                "name" : "BlurOverlay"
+              },
+              {
+                "maskFrame" : {
+                  "y" : 71,
+                  "x" : -561,
+                  "width" : 711,
+                  "height" : 997
+                },
+                "id" : "AABAE85F-9F37-4A6B-A46D-0CD955525D45",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/interstellar3-AABAE85F-9F37-4A6B-A46D-0CD955525D45.png",
+                  "frame" : {
+                    "y" : 71,
+                    "x" : -561,
+                    "width" : 711,
+                    "height" : 997
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 71,
+                  "x" : -561,
+                  "width" : 711,
+                  "height" : 997
+                },
+                "name" : "interstellar3"
+              }
+            ],
+            "image" : {
+              "path" : "images\/MovieBar-72A91A6D-4972-4451-B9A0-EE7BD99B8AF5.png",
+              "frame" : {
+                "y" : 71,
+                "x" : -561,
+                "width" : 711,
+                "height" : 997
+              }
+            },
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : 71,
+              "x" : -561,
+              "width" : 711,
+              "height" : 997
+            },
+            "name" : "MovieBar"
+          }
+        ],
+        "image" : {
+          "path" : "images\/Frozen-5732B19E-73FD-43AB-95FA-F659DA6DB912.png",
+          "frame" : {
+            "y" : 71,
+            "x" : -561,
+            "width" : 711,
+            "height" : 997
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 71,
+          "x" : -561,
+          "width" : 711,
+          "height" : 997
+        },
+        "name" : "Frozen"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "19B652BC-37E0-4112-83E8-02FD9F8F32AF",
+        "visible" : false,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/ScrollView-19B652BC-37E0-4112-83E8-02FD9F8F32AF.png",
+          "frame" : {
+            "y" : 71,
+            "x" : 20,
+            "width" : 1291,
+            "height" : 997
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 71,
+          "x" : 20,
+          "width" : 1291,
+          "height" : 997
+        },
+        "name" : "ScrollView"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "16B82DB7-D331-4830-9E1D-24D016ABADE9",
+        "visible" : false,
+        "children" : [
+          {
+            "maskFrame" : null,
+            "id" : "635418A2-C05C-4062-A918-F63A8DEBC8CF",
+            "visible" : true,
+            "children" : [
+              {
+                "maskFrame" : null,
+                "id" : "93A679B8-B494-4A2E-A350-D793544FE97F",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/TrendingTag-93A679B8-B494-4A2E-A350-D793544FE97F.png",
+                  "frame" : {
+                    "y" : 808,
+                    "x" : 924,
+                    "width" : 371,
+                    "height" : 240
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 808,
+                  "x" : 924,
+                  "width" : 371,
+                  "height" : 240
+                },
+                "name" : "TrendingTag"
+              },
+              {
+                "maskFrame" : null,
+                "id" : "2CAD0AB7-1A2E-420A-945A-68C267C47998",
+                "visible" : true,
+                "children" : [
+                  {
+                    "maskFrame" : null,
+                    "id" : "247F6506-C580-4C05-92CE-7E960913152E",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/More_Friends-247F6506-C580-4C05-92CE-7E960913152E.png",
+                      "frame" : {
+                        "y" : 798,
+                        "x" : 766,
+                        "width" : 260,
+                        "height" : 260
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 798,
+                      "x" : 766,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "name" : "More_Friends"
+                  },
+                  {
+                    "maskFrame" : {
+                      "y" : 798,
+                      "x" : 716,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "id" : "3A5C69EA-749A-409A-BE5E-EE0F9912DA4E",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/mom-3A5C69EA-749A-409A-BE5E-EE0F9912DA4E.png",
+                      "frame" : {
+                        "y" : 798,
+                        "x" : 716,
+                        "width" : 260,
+                        "height" : 260
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 798,
+                      "x" : 716,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "name" : "mom"
+                  },
+                  {
+                    "maskFrame" : {
+                      "y" : 798,
+                      "x" : 666,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "id" : "D61C0754-B707-4D6D-BC84-7A75BAA48235",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/theo-D61C0754-B707-4D6D-BC84-7A75BAA48235.png",
+                      "frame" : {
+                        "y" : 798,
+                        "x" : 666,
+                        "width" : 260,
+                        "height" : 260
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 798,
+                      "x" : 666,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "name" : "theo"
+                  },
+                  {
+                    "maskFrame" : {
+                      "y" : 798,
+                      "x" : 616,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "id" : "B9F9E804-4354-42C5-A98A-ABDB36656444",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/mason-B9F9E804-4354-42C5-A98A-ABDB36656444.png",
+                      "frame" : {
+                        "y" : 798,
+                        "x" : 616,
+                        "width" : 260,
+                        "height" : 260
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 798,
+                      "x" : 616,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "name" : "mason"
+                  }
+                ],
+                "image" : {
+                  "path" : "images\/Friends-2CAD0AB7-1A2E-420A-945A-68C267C47998.png",
+                  "frame" : {
+                    "y" : 798,
+                    "x" : 616,
+                    "width" : 410,
+                    "height" : 260
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 798,
+                  "x" : 616,
+                  "width" : 410,
+                  "height" : 260
+                },
+                "name" : "Friends"
+              },
+              {
+                "maskFrame" : {
+                  "y" : 788,
+                  "x" : 600,
+                  "width" : 711,
+                  "height" : 280
+                },
+                "id" : "E001D2CA-91A1-4199-846B-AEA1FA5FF53D",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/BlurOverlay-E001D2CA-91A1-4199-846B-AEA1FA5FF53D.png",
+                  "frame" : {
+                    "y" : 788,
+                    "x" : 600,
+                    "width" : 711,
+                    "height" : 280
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 788,
+                  "x" : 600,
+                  "width" : 711,
+                  "height" : 280
+                },
+                "name" : "BlurOverlay"
+              },
+              {
+                "maskFrame" : {
+                  "y" : 71,
+                  "x" : 600,
+                  "width" : 711,
+                  "height" : 997
+                },
+                "id" : "4517BC43-2236-4BEA-9A08-3081EA23327F",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/interstellar3-4517BC43-2236-4BEA-9A08-3081EA23327F.png",
+                  "frame" : {
+                    "y" : 71,
+                    "x" : 600,
+                    "width" : 711,
+                    "height" : 997
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 71,
+                  "x" : 600,
+                  "width" : 711,
+                  "height" : 997
+                },
+                "name" : "interstellar3"
+              }
+            ],
+            "image" : {
+              "path" : "images\/MovieBar-635418A2-C05C-4062-A918-F63A8DEBC8CF.png",
+              "frame" : {
+                "y" : 71,
+                "x" : 600,
+                "width" : 711,
+                "height" : 997
+              }
+            },
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : 71,
+              "x" : 600,
+              "width" : 711,
+              "height" : 997
+            },
+            "name" : "MovieBar"
+          }
+        ],
+        "image" : {
+          "path" : "images\/Transformers-16B82DB7-D331-4830-9E1D-24D016ABADE9.png",
+          "frame" : {
+            "y" : 71,
+            "x" : 600,
+            "width" : 711,
+            "height" : 997
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 71,
+          "x" : 600,
+          "width" : 711,
+          "height" : 997
+        },
+        "name" : "Transformers"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "1010EC63-3888-4498-9D30-E0E5089D6EF1",
+        "visible" : false,
+        "children" : [
+          {
+            "maskFrame" : null,
+            "id" : "5B38BB6E-3DE2-4D5A-955A-52986ED664D5",
+            "visible" : true,
+            "children" : [
+              {
+                "maskFrame" : null,
+                "id" : "9BE05C4F-67AD-4074-8E4F-48FCAD5CE1A9",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/TrendingTag-9BE05C4F-67AD-4074-8E4F-48FCAD5CE1A9.png",
+                  "frame" : {
+                    "y" : 808,
+                    "x" : 367,
+                    "width" : 348,
+                    "height" : 240
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 808,
+                  "x" : 367,
+                  "width" : 348,
+                  "height" : 240
+                },
+                "name" : "TrendingTag"
+              },
+              {
+                "maskFrame" : null,
+                "id" : "F92C7E49-D8B2-4563-ADAC-6F20A2AA68BF",
+                "visible" : true,
+                "children" : [
+                  {
+                    "maskFrame" : null,
+                    "id" : "E8D518DB-4577-4EB1-9F09-6FBB39A84862",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/More_Friends-E8D518DB-4577-4EB1-9F09-6FBB39A84862.png",
+                      "frame" : {
+                        "y" : 798,
+                        "x" : 186,
+                        "width" : 260,
+                        "height" : 260
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 798,
+                      "x" : 186,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "name" : "More_Friends"
+                  },
+                  {
+                    "maskFrame" : {
+                      "y" : 798,
+                      "x" : 136,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "id" : "C902261E-3395-464A-B18C-50BCDCF9593A",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/mom-C902261E-3395-464A-B18C-50BCDCF9593A.png",
+                      "frame" : {
+                        "y" : 798,
+                        "x" : 136,
+                        "width" : 260,
+                        "height" : 260
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 798,
+                      "x" : 136,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "name" : "mom"
+                  },
+                  {
+                    "maskFrame" : {
+                      "y" : 798,
+                      "x" : 86,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "id" : "77EAB0D7-ECEB-4506-905D-63FB8C62F842",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/theo-77EAB0D7-ECEB-4506-905D-63FB8C62F842.png",
+                      "frame" : {
+                        "y" : 798,
+                        "x" : 86,
+                        "width" : 260,
+                        "height" : 260
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 798,
+                      "x" : 86,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "name" : "theo"
+                  },
+                  {
+                    "maskFrame" : {
+                      "y" : 798,
+                      "x" : 36,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "id" : "F82EBCC3-6D32-4983-A475-47C7943DD7D1",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/mason-F82EBCC3-6D32-4983-A475-47C7943DD7D1.png",
+                      "frame" : {
+                        "y" : 798,
+                        "x" : 36,
+                        "width" : 260,
+                        "height" : 260
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 798,
+                      "x" : 36,
+                      "width" : 260,
+                      "height" : 260
+                    },
+                    "name" : "mason"
+                  }
+                ],
+                "image" : {
+                  "path" : "images\/Friends-F92C7E49-D8B2-4563-ADAC-6F20A2AA68BF.png",
+                  "frame" : {
+                    "y" : 798,
+                    "x" : 36,
+                    "width" : 410,
+                    "height" : 260
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 798,
+                  "x" : 36,
+                  "width" : 410,
+                  "height" : 260
+                },
+                "name" : "Friends"
+              },
+              {
+                "maskFrame" : {
+                  "y" : 788,
+                  "x" : 20,
+                  "width" : 711,
+                  "height" : 280
+                },
+                "id" : "44B2E7F5-991A-4FA2-974F-2F8DE25A575B",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/BlurOverlay-44B2E7F5-991A-4FA2-974F-2F8DE25A575B.png",
+                  "frame" : {
+                    "y" : 788,
+                    "x" : 20,
+                    "width" : 711,
+                    "height" : 280
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 788,
+                  "x" : 20,
+                  "width" : 711,
+                  "height" : 280
+                },
+                "name" : "BlurOverlay"
+              },
+              {
+                "maskFrame" : {
+                  "y" : 71,
+                  "x" : 20,
+                  "width" : 711,
+                  "height" : 997
+                },
+                "id" : "0CC10D04-F62D-45AD-9BA3-FF04AF24AF95",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/interstellar3-0CC10D04-F62D-45AD-9BA3-FF04AF24AF95.png",
+                  "frame" : {
+                    "y" : 71,
+                    "x" : 20,
+                    "width" : 711,
+                    "height" : 997
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : 71,
+                  "x" : 20,
+                  "width" : 711,
+                  "height" : 997
+                },
+                "name" : "interstellar3"
+              }
+            ],
+            "image" : {
+              "path" : "images\/MovieBar-5B38BB6E-3DE2-4D5A-955A-52986ED664D5.png",
+              "frame" : {
+                "y" : 71,
+                "x" : 20,
+                "width" : 711,
+                "height" : 997
+              }
+            },
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : 71,
+              "x" : 20,
+              "width" : 711,
+              "height" : 997
+            },
+            "name" : "MovieBar"
+          }
+        ],
+        "image" : {
+          "path" : "images\/Interstellar-1010EC63-3888-4498-9D30-E0E5089D6EF1.png",
+          "frame" : {
+            "y" : 71,
+            "x" : 20,
+            "width" : 711,
+            "height" : 997
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 71,
+          "x" : 20,
+          "width" : 711,
+          "height" : 997
+        },
+        "name" : "Interstellar"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "7BB5DF8B-5AF1-41DE-80F6-D48EE3A4B496",
+        "visible" : true,
+        "children" : [
+          {
+            "maskFrame" : null,
+            "id" : "43E2335E-88BF-4B1D-BE2B-AED2C7DCCABE",
+            "visible" : true,
+            "children" : [
+
+            ],
+            "image" : {
+              "path" : "images\/SkipButton-43E2335E-88BF-4B1D-BE2B-AED2C7DCCABE.png",
+              "frame" : {
+                "y" : 1021,
+                "x" : 205,
+                "width" : 100,
+                "height" : 144
+              }
+            },
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : 1021,
+              "x" : 205,
+              "width" : 100,
+              "height" : 144
+            },
+            "name" : "SkipButton"
+          },
+          {
+            "maskFrame" : null,
+            "id" : "D1F96F92-B4E4-4CFB-9D8F-229E86FEA67A",
+            "visible" : true,
+            "children" : [
+
+            ],
+            "image" : {
+              "path" : "images\/ViewButton-D1F96F92-B4E4-4CFB-9D8F-229E86FEA67A.png",
+              "frame" : {
+                "y" : 1031,
+                "x" : 335,
+                "width" : 80,
+                "height" : 80
+              }
+            },
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : 1031,
+              "x" : 335,
+              "width" : 80,
+              "height" : 80
+            },
+            "name" : "ViewButton"
+          },
+          {
+            "maskFrame" : null,
+            "id" : "A636FA16-5AF9-465E-8846-925F8FD80799",
+            "visible" : true,
+            "children" : [
+
+            ],
+            "image" : {
+              "path" : "images\/WatchlistButton-A636FA16-5AF9-465E-8846-925F8FD80799.png",
+              "frame" : {
+                "y" : 1021,
+                "x" : 445,
+                "width" : 100,
+                "height" : 140
+              }
+            },
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : 1021,
+              "x" : 445,
+              "width" : 100,
+              "height" : 140
+            },
+            "name" : "WatchlistButton"
+          }
+        ],
+        "image" : {
+          "path" : "images\/ActionButtons-7BB5DF8B-5AF1-41DE-80F6-D48EE3A4B496.png",
+          "frame" : {
+            "y" : 1021,
+            "x" : 205,
+            "width" : 340,
+            "height" : 144
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 1021,
+          "x" : 205,
+          "width" : 340,
+          "height" : 144
+        },
+        "name" : "ActionButtons"
+      }
+    ],
+    "image" : {
+      "path" : "images\/Discover-B04CEB0F-AB2E-4A02-BE42-3DF15487F3AF.png",
+      "frame" : {
+        "y" : 0,
+        "x" : 0,
+        "width" : 750,
+        "height" : 1334
+      }
+    },
+    "imageType" : "png",
+    "layerFrame" : {
+      "y" : 0,
+      "x" : 0,
+      "width" : 750,
+      "height" : 1334
+    },
+    "name" : "Discover"
+  },
+  {
+    "maskFrame" : null,
+    "id" : "A65F3628-D41E-45FC-8ACB-6FC6AF1D04DC",
+    "visible" : false,
+    "children" : [
+      {
+        "maskFrame" : null,
+        "id" : "D72D8586-FE03-4B67-A957-16EBD77EA82B",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/Select_3-D72D8586-FE03-4B67-A957-16EBD77EA82B.png",
+          "frame" : {
+            "y" : 574,
+            "x" : 569,
+            "width" : 93,
+            "height" : 28
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 574,
+          "x" : 569,
+          "width" : 93,
+          "height" : 28
+        },
+        "name" : "Select_3"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "E9717A34-7413-496E-BAF8-9311CFAB98E5",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/Select_2-E9717A34-7413-496E-BAF8-9311CFAB98E5.png",
+          "frame" : {
+            "y" : 395,
+            "x" : 569,
+            "width" : 93,
+            "height" : 28
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 395,
+          "x" : 569,
+          "width" : 93,
+          "height" : 28
+        },
+        "name" : "Select_2"
+      },
+      {
+        "maskFrame" : null,
+        "id" : "616A79B3-7A84-48DB-8747-2C5122A5F852",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/Select-616A79B3-7A84-48DB-8747-2C5122A5F852.png",
+          "frame" : {
+            "y" : 216,
+            "x" : 569,
+            "width" : 93,
+            "height" : 28
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 216,
+          "x" : 569,
+          "width" : 93,
+          "height" : 28
+        },
+        "name" : "Select"
+      }
+    ],
+    "image" : {
+      "path" : "images\/Discover_Settings-A65F3628-D41E-45FC-8ACB-6FC6AF1D04DC.png",
+      "frame" : {
+        "y" : 0,
+        "x" : 0,
+        "width" : 750,
+        "height" : 1334
+      }
+    },
+    "imageType" : "png",
+    "layerFrame" : {
+      "y" : 0,
+      "x" : 0,
+      "width" : 750,
+      "height" : 1334
+    },
+    "name" : "Discover_Settings"
+  },
+  {
+    "maskFrame" : null,
+    "id" : "03FD81BE-EEA0-4C5D-90A4-829B465800BD",
+    "visible" : false,
+    "children" : [
+
+    ],
+    "image" : {
+      "path" : "images\/Watchlist_Icon-03FD81BE-EEA0-4C5D-90A4-829B465800BD.png",
+      "frame" : {
+        "y" : 0,
+        "x" : 0,
+        "width" : 120,
+        "height" : 120
+      }
+    },
+    "imageType" : "png",
+    "layerFrame" : {
+      "y" : 0,
+      "x" : 0,
+      "width" : 120,
+      "height" : 120
+    },
+    "name" : "Watchlist_Icon"
+  }
+]

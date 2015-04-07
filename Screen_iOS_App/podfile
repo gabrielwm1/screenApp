@@ -1,0 +1,21 @@
+platform :ios, '7.0'
+
+inhibit_all_warnings!
+
+pod 'RestKit'
+pod 'STHTTPRequest'
+pod 'STPTransitions'
+pod 'SDWebImage'
+pod 'Parse'
+pod 'XCDYouTubeKit'
+pod 'ParseUI'
+pod 'MarqueeLabel'
+pod 'SpinKit'
+pod 'ParseFacebookUtils'
+pod 'EDStarRating'
+pod 'PureLayout'
+pod 'pop'
+pod 'HMSegmentedControl', :path => 'HMSegmentedControl/HMSegmentedControl.podspec'
+pod 'SZTextView'
+pod 'RKXMLReaderSerialization', :git => 'https://github.com/RestKit/RKXMLReaderSerialization.git', :branch => 'master'
+
