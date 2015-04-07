@@ -70,8 +70,8 @@
 - Main interface: `/Screen_API_Codebase/GooglePlaces/GooglePlacesHelper.h`
 
 ## Backend Structure and Custom Endpoints
-- Familiarize yourself with [Parse](https://www.parse.com/docs) if you aren’t already
-![db](/Screen_Docs/Screen_Database_Model.png). The backend is pretty simple and only consists of 3 classes on Parse. Here’s an overview of the structure:
+- Familiarize yourself with [Parse](https://www.parse.com/docs) if you aren’t already. The backend is pretty simple and only consists of 3 classes on Parse. Here’s an overview of the structure:
+![db](/Screen_Docs/Screen_Database_Model.png)
 
 ### Classes
 
