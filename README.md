@@ -71,7 +71,7 @@
 
 ## Backend Structure and Custom Endpoints
 - Familiarize yourself with [Parse](https://www.parse.com/docs) if you aren’t already
-![db](/Screen_Docs/Screen_Database_Model.png)
+![db](/Screen_Docs/Screen_Database_Model.png). The backend is pretty simple and only consists of 3 classes on Parse. Here’s an overview of the structure:
 
 ### Classes
 
