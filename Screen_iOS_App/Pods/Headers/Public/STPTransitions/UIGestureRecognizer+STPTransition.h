@@ -1,0 +1,1 @@
+../../../STPTransitions/Core/UIGestureRecognizer+STPTransition.h

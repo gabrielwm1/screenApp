@@ -1,0 +1,9 @@
+CONFIGURATION_BUILD_DIR = $PODS_CONFIGURATION_BUILD_DIR/MarqueeLabel
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/MarqueeLabel" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AFNetworking" "${PODS_ROOT}/Headers/Public/Bolts" "${PODS_ROOT}/Headers/Public/EDStarRating" "${PODS_ROOT}/Headers/Public/Facebook-iOS-SDK" "${PODS_ROOT}/Headers/Public/HMSegmentedControl" "${PODS_ROOT}/Headers/Public/ISO8601DateFormatterValueTransformer" "${PODS_ROOT}/Headers/Public/MarqueeLabel" "${PODS_ROOT}/Headers/Public/Parse" "${PODS_ROOT}/Headers/Public/ParseFacebookUtils" "${PODS_ROOT}/Headers/Public/ParseUI" "${PODS_ROOT}/Headers/Public/PureLayout" "${PODS_ROOT}/Headers/Public/RKValueTransformers" "${PODS_ROOT}/Headers/Public/RKXMLReaderSerialization" "${PODS_ROOT}/Headers/Public/RestKit" "${PODS_ROOT}/Headers/Public/SDWebImage" "${PODS_ROOT}/Headers/Public/SOCKit" "${PODS_ROOT}/Headers/Public/STHTTPRequest" "${PODS_ROOT}/Headers/Public/STPTransitions" "${PODS_ROOT}/Headers/Public/SZTextView" "${PODS_ROOT}/Headers/Public/SpinKit" "${PODS_ROOT}/Headers/Public/TransitionKit" "${PODS_ROOT}/Headers/Public/XCDYouTubeKit" "${PODS_ROOT}/Headers/Public/XMLReader" "${PODS_ROOT}/Headers/Public/pop"
+OTHER_LDFLAGS = -framework "QuartzCore" -framework "UIKit"
+PODS_BUILD_DIR = $BUILD_DIR
+PODS_CONFIGURATION_BUILD_DIR = $PODS_BUILD_DIR/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_ROOT = ${SRCROOT}
+PRODUCT_BUNDLE_IDENTIFIER = org.cocoapods.${PRODUCT_NAME:rfc1034identifier}
+SKIP_INSTALL = YES
