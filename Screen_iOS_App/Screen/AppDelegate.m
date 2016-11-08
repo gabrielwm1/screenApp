@@ -31,7 +31,7 @@
     [Parse setApplicationId:@"sh5TWSiKn9Dmljgv0gJ5MiqrvTUxzE7BHP3kluUH"
                   clientKey:@"Hy4LqCyGZXAPUaUnGyXqiCMO2B1h6bzDvPgYly3m"];
     
-    [PFTwitterUtils initializeWithConsumerKey:@"R389bZJQcKqsjK9igqFKH9yiU" consumerSecret:@"9CPqg1IXkMd6x2sr48pjpSTCfd5N0XrpYq8hCvqaQvmzjVKHfi"];
+//    [PFTwitterUtils initializeWithConsumerKey:@"R389bZJQcKqsjK9igqFKH9yiU" consumerSecret:@"9CPqg1IXkMd6x2sr48pjpSTCfd5N0XrpYq8hCvqaQvmzjVKHfi"];
     [PFFacebookUtils initializeFacebook];
     
     [[UIApplication sharedApplication] setStatusBarStyle:UIStatusBarStyleLightContent];

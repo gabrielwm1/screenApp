@@ -776,10 +776,10 @@ dispatch_queue_t bgQueue;
     __block PFQuery *twitterQuery;
     
     __block BOOL stillGettingFacebook = ([PFFacebookUtils isLinkedWithUser:[PFUser currentUser]] && [self isFacebookConnected]);
-    __block BOOL stillGettingTwitter = [PFTwitterUtils isLinkedWithUser:[PFUser currentUser]];
+//    __block BOOL stillGettingTwitter = [PFTwitterUtils isLinkedWithUser:[PFUser currentUser]];
     
     SuccessBlock block = ^{
-        if (!stillGettingFacebook && !stillGettingTwitter) {
+        if (!stillGettingFacebook) {
             if (facebookQuery && twitterQuery) {
                 PFQuery *query = [PFQuery orQueryWithSubqueries:@[parseFriends, facebookQuery, twitterQuery]];
                 success(query);
@@ -794,7 +794,7 @@ dispatch_queue_t bgQueue;
             }
         }
     };
-    if (!stillGettingFacebook && !stillGettingTwitter) {
+    if (!stillGettingFacebook) {
         success(parseFriends);
     }
     if (stillGettingFacebook) {
@@ -804,13 +804,13 @@ dispatch_queue_t bgQueue;
             block();
         }];
     }
-    if (stillGettingTwitter) {
-        [self twitterParseFriendsQuery:^(PFQuery *query) {
-            twitterQuery = query;
-            stillGettingTwitter = NO;
-            block();
-        }];
-    }
+//    if (stillGettingTwitter) {
+//        [self twitterParseFriendsQuery:^(PFQuery *query) {
+//            twitterQuery = query;
+//            stillGettingTwitter = NO;
+//            block();
+//        }];
+//    }
     
     
 }
@@ -862,7 +862,7 @@ dispatch_queue_t bgQueue;
         NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:[NSURL URLWithString:endpoint]];
         
         if (request) {
-            [[PFTwitterUtils twitter] signRequest:request];
+//            [[PFTwitterUtils twitter] signRequest:request];
             [NSURLConnection sendAsynchronousRequest:request queue:[NSOperationQueue mainQueue] completionHandler:^(NSURLResponse *response, NSData *data, NSError *error) {
                 if (data) {
                     // handle the response data e.g.
@@ -929,7 +929,7 @@ dispatch_queue_t bgQueue;
     NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:[NSURL URLWithString:endpoint]];
     
     if (request) {
-        [[PFTwitterUtils twitter] signRequest:request];
+//        [[PFTwitterUtils twitter] signRequest:request];
         [NSURLConnection sendAsynchronousRequest:request queue:[NSOperationQueue mainQueue] completionHandler:^(NSURLResponse *response, NSData *data, NSError *error) {
             if (data) {
                 // handle the response data e.g.
@@ -986,22 +986,22 @@ dispatch_queue_t bgQueue;
             }
         }];
     }
-    if ([PFTwitterUtils isLinkedWithUser:user]) {
-        [user setObject:[PFTwitterUtils twitter].userId forKey:@"twitterId"];
-        [user saveInBackground];
-        [self twitterGetNameImage:^(NSString *name, NSString *userName, NSString *image) {
-            if (![user objectForKey:@"hasExisted"]) {
-                [user setObject:name forKey:@"name"];
-                [user setObject:[name lowercaseString] forKey:@"lowercaseName"];
-                [user setObject:userName forKey:@"username"];
-            }
-            [user setObject:[NSNumber numberWithBool:YES] forKey:@"hasExisted"];
-            [user setObject:image forKey:@"twitterImageUrl"];
-            [user saveInBackground];
-        }error:^(NSError *error) {
-            
-        }];
-    }
+//    if ([PFTwitterUtils isLinkedWithUser:user]) {
+////        [user setObject:[PFTwitterUtils twitter].userId forKey:@"twitterId"];
+//        [user saveInBackground];
+//        [self twitterGetNameImage:^(NSString *name, NSString *userName, NSString *image) {
+//            if (![user objectForKey:@"hasExisted"]) {
+//                [user setObject:name forKey:@"name"];
+//                [user setObject:[name lowercaseString] forKey:@"lowercaseName"];
+//                [user setObject:userName forKey:@"username"];
+//            }
+//            [user setObject:[NSNumber numberWithBool:YES] forKey:@"hasExisted"];
+//            [user setObject:image forKey:@"twitterImageUrl"];
+//            [user saveInBackground];
+//        }error:^(NSError *error) {
+//            
+//        }];
+//    }
     
     if (loginBlocks.didLogInUser) {
         loginBlocks.didLogInUser(user);

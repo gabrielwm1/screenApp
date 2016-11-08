@@ -12,9 +12,9 @@
 #import "ParseHelper.h"
 #import <SDWebImage/UIImageView+WebCache.h>
 #import <TwitterKit/TwitterKit.h>
-#import "PFActionButton.h"
-#import "PFColor.h"
-#import "PFImage.h"
+//#import "PFActionButton.h"
+//#import "PFColor.h"
+//#import "PFImage.h"
 #import <ParseFacebookUtils/PFFacebookUtils.h>
 #import "FriendsSearchBar.h"
 #import "SearchFriendsViewController.h"
